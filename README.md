@@ -6,7 +6,8 @@
 ## Setup/Installation Requirements
 * An internet connection
 * A device that can access the internet
-
+## Link to live site
+   https://peet-pitz.github.io/Triangle-Tracker/
 
 ## Technologies Used
 JavaScript
