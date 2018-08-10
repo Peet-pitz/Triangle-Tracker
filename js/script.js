@@ -1,3 +1,4 @@
+function compare(){
 var sideA = parseInt(prompt("Enter side a"));
 var sideB = parseInt(prompt("Enter side b"));
 var sideC = parseInt(prompt("Enter side c"));
@@ -12,6 +13,6 @@ alert("Not a Triangle. Sum of any two sides is less than or equal to the third s
 alert("Isosceles Triangle. Exactly two sides are equal");
 }  else if (sideA !== sideB && sideA !== sideC && sideB !== sideC) {
     alert("Scalene Triangle. No sides are equal");
-};
+}};
 
      
